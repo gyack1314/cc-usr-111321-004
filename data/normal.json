@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "tables": {
+    "observations": {
+      "file": "normal-observations.jsonl",
+      "sha256": "c45b819208d0697f95601de2103411a4934b41f2a3b37ada140b79aa1aae7685",
+      "bytes": 766,
+      "rows": 8,
+      "fields": [
+        "id",
+        "minute",
+        "load",
+        "pressure",
+        "temperature",
+        "vibration"
+      ]
+    },
+    "states": {
+      "file": "normal-states.jsonl",
+      "sha256": "49569e6b4b4c4cd55c2b74ed833086bf595ac6342a910f2d08885fe1bc1a6db5",
+      "bytes": 139,
+      "rows": 2,
+      "fields": [
+        "id",
+        "start",
+        "end",
+        "regime",
+        "known_at"
+      ]
+    },
+    "incidents": {
+      "file": "normal-incidents.jsonl",
+      "sha256": "b47ebb75abe78b25d74c4b4fc6e6628ab56f548c0df9d5e9fe26b441dbb8a0ff",
+      "bytes": 58,
+      "rows": 1,
+      "fields": [
+        "id",
+        "start",
+        "end",
+        "confirmed_at"
+      ]
+    },
+    "training": {
+      "file": "normal-training.jsonl",
+      "sha256": "9595e12bb31d2c5c808be04564b5053ee6d2294da0a6d4abf23a654df1c631de",
+      "bytes": 56,
+      "rows": 1,
+      "fields": [
+        "id",
+        "start",
+        "end",
+        "confirmed_at"
+      ]
+    }
+  }
+}

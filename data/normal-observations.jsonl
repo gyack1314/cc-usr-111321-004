@@ -1,0 +1,8 @@
+{"id": "o0", "load": 50, "minute": 0, "pressure": 2.0, "temperature": 80.0, "vibration": 0.2}
+{"id": "o1", "load": 50, "minute": 10, "pressure": 2.02, "temperature": 80.5, "vibration": 0.2}
+{"id": "o2", "load": 50, "minute": 20, "pressure": 2.04, "temperature": 81.0, "vibration": 0.2}
+{"id": "o3", "load": 50, "minute": 30, "pressure": 2.06, "temperature": 81.5, "vibration": null}
+{"id": "o4", "load": 75, "minute": 40, "pressure": 2.08, "temperature": 82.0, "vibration": 0.2}
+{"id": "o5", "load": 75, "minute": 50, "pressure": 2.1, "temperature": 82.5, "vibration": 0.2}
+{"id": "o6", "load": 75, "minute": 60, "pressure": 2.12, "temperature": 83.0, "vibration": 0.2}
+{"id": "o7", "load": 75, "minute": 70, "pressure": 2.14, "temperature": 83.5, "vibration": 0.2}
